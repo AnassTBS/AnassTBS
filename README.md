@@ -2,6 +2,8 @@
  🎓 **Web Development Student at OFPPT**
 
 > Building my skills through daily practice and real-world projects.  
+> Passionate about Web Development, AI, and continuous learning.  
+>
 > Goal: Become a Full Stack Web Developer.
 
 ---
