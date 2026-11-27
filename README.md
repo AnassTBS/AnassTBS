@@ -24,8 +24,20 @@ I'm focused on:
 ---
 
 ## Featured Projects
-> 🚧 Currently building my first portfolio projects.
+### 1. FMS Pro — Fleet Management System
+A full-stack fleet management application developed as an academic project.
 
+- **Technologies:** Laravel 12, PHP, MySQL, Blade, Tailwind CSS
+- **Focus:** Fleet operations, drivers, trucks, deliveries and maintenance.
+- [View Repository](https://github.com/AnassTBS/FMS-Pro)
+
+### 2. Rangnova — B2B Call Center Website
+A multilingual corporate website for a B2B call center.
+
+- **Technologies:** React, Vite, JavaScript, CSS
+- **Features:** Multilingual support, responsive design and RTL layout.
+- [Live Website](https://rangnova.com)
+- [View Repository](https://github.com/AnassTBS/Rangnova)
 ---
 
 ## Mindset
